@@ -19,10 +19,21 @@ Ingredientes:
 * 1 Chorro de aceite
 * 1 Pizca de sal
 
+![pollo_ingredientes][pollo_ingredientes]
+
 Se rehoga primero las 4 verduras picadas, junto con los muslos de pollo, el aceite y la sal durante unos 5 minutos a fuego fuerte.
+
+![pollo_rehogar][pollo_rehogar]
+
 Cuando el pollo este doradito se echa en la olla
+
+![pollo_rehogar][pollo_olla]
+
 Tiempo en la olla: 8 horas.
 
-[amazon_olla]:      http://www.amazon.es/gp/product/B00BFA6CTW?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00
-[amazon_temportizador]:   http://www.amazon.es/gp/product/B000KJR5S6?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00
+![pollo_despues][pollo_despues]
 
+[pollo_ingredientes]: /static/images/2015-10-19_pollo_1.jpg  "Optional title attribute"
+[pollo_rehogar]: /static/images/2015-10-19_pollo_2.jpg
+[pollo_olla]: /static/images/2015-10-19_pollo_3.jpg
+[pollo_despues]: /static/images/2015-10-19_pollo_4.jpg
