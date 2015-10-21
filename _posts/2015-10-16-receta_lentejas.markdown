@@ -18,13 +18,12 @@ Ingredientes:
 * 300 Gramos de lentejas aprox
 * 1 pizca de sal
 
+Las lentejas no las puse a remojo, echar agua hasta cubrir todos los ingredientes
 Tiempo en la olla 8 horas.
 
 ![Lentejas despues][lentejas_despues]
 
-[amazon_olla]:      http://www.amazon.es/gp/product/B00BFA6CTW?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00
-[amazon_temportizador]:   http://www.amazon.es/gp/product/B000KJR5S6?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00
+Les falto un poco de agua y arreglarlas con harina y pimenton.
 
-[lentejas_antes]: /static/images/2015-10-16_lentejas1.jpg  "Optional title attribute"
-
+[lentejas_antes]: /static/images/2015-10-16_lentejas1.jpg
 [lentejas_despues]: /static/images/2015-10-17_lentejas2.jpg
