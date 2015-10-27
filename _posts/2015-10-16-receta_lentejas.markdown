@@ -25,5 +25,5 @@ Tiempo en la olla 8 horas.
 
 Les falto un poco de agua y arreglarlas con harina y pimenton.
 
-[lentejas_antes]: /static/images/2015-10-16_lentejas1.jpg
-[lentejas_despues]: /static/images/2015-10-17_lentejas2.jpg
+[lentejas_antes]: /static/images/recetas/2015-10-16_lentejas1.jpg
+[lentejas_despues]: /static/images/recetas/2015-10-17_lentejas2.jpg

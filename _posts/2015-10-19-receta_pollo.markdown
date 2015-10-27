@@ -33,7 +33,7 @@ Tiempo en la olla: 8 horas.
 
 ![pollo_despues][pollo_despues]
 
-[pollo_ingredientes]: /static/images/2015-10-19_pollo_1.jpg  "Optional title attribute"
-[pollo_rehogar]: /static/images/2015-10-19_pollo_2.jpg
-[pollo_olla]: /static/images/2015-10-19_pollo_3.jpg
-[pollo_despues]: /static/images/2015-10-19_pollo_4.jpg
+[pollo_ingredientes]: /static/images/recetas/2015-10-19_pollo_1.jpg  "Optional title attribute"
+[pollo_rehogar]: /static/images/recetas/2015-10-19_pollo_2.jpg
+[pollo_olla]: /static/images/recetas/2015-10-19_pollo_3.jpg
+[pollo_despues]: /static/images/recetas/2015-10-19_pollo_4.jpg
