@@ -19,7 +19,7 @@ Ingredientes:
 * 1 pizca de sal
 
 Las lentejas no las puse a remojo, echar agua hasta cubrir todos los ingredientes
-Tiempo en la olla 8 horas.
+Tiempo en la olla 8 horas en bajo
 
 ![Lentejas despues][lentejas_despues]
 

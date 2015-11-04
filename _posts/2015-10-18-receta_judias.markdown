@@ -19,13 +19,13 @@ Ingredientes:
 * 1 Cucharada de aceite
 * 1 poco de harina para arreglarlas
 
-Tiempo en la olla 7 horas sin las judias
+Tiempo en la olla 7 horas sin las judias en bajo
 
 Despues freir un poco la harina y echarla junto con las judias
 
-Con las judias 2 horas mas.
+Con las judias 2 horas mas en bajo.
 
-En total 9 horas
+En total 9 horas en bajo
 
 
 

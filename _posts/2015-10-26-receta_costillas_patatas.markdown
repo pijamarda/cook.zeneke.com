@@ -26,7 +26,7 @@ Se ponen las costillas encima la otra patata y la calabaza partida en trozos
 
 ![pollo_rehogar][pollo_olla]
 
-Tiempo en la olla: 9 horas.
+Tiempo en la olla: 9 horas en bajo
 
 ![pollo_despues][pollo_despues]
 

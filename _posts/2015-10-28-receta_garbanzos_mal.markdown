@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Costillas con patatas y calabaza"
-date:   2015-10-26 21:00:00
+title:  "Garbanzos reguleros"
+date:   2015-10-28 21:00:00
 categories: lenta receta
 ---
 
-Costillas con patatas y calabaza, me ha salido regular por echar mucha agua, para la proxima no cubrir por completo con agua.
+Garbanzos con ingredientes de cocido, me quedaron duros pero bien de sabor
+Posiblemente por no estar lo suficiente en remojo y cocinarlo en bajo
 
 Ingredientes:
 
@@ -26,7 +27,7 @@ Se ponen las costillas encima la otra patata y la calabaza partida en trozos
 
 ![pollo_rehogar][pollo_olla]
 
-Tiempo en la olla: 9 horas.
+Tiempo en la olla: 9 horas en bajo
 
 ![pollo_despues][pollo_despues]
 

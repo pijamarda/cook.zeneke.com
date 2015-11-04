@@ -29,7 +29,7 @@ Cuando el pollo este doradito se echa en la olla
 
 ![pollo_rehogar][pollo_olla]
 
-Tiempo en la olla: 8 horas.
+Tiempo en la olla: 8 horas en bajo.
 
 ![pollo_despues][pollo_despues]
 
