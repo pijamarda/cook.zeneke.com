@@ -1,26 +1,23 @@
 ---
 layout: post
-title:  "Garbanzos 2.0"
-date:   2015-11-03 21:00:00
+title:  "Cerdgo guisado con patatas"
+date:   2015-11-09 21:00:00
 categories: lenta receta
 ---
 
-Garbanzos con ingredientes de cocido, esta vez mucho mejor que la ultima.
-Lo puse en alto, a partir de ahora las legumbres "grandes" las cocinare en alto
+Cocine el resto de secreto iberico que quedaba como un estofado de carne con patatas.
+De sabor bien, vuelve a haber mucho liquido pero hay que cubrir las cosas para que se hagan bien
 
 Ingredientes:
 
-* Garbanzos
+* Secreto iberico partido en trozos
 * 1/2 Cebolla
-* 1 Trozo de morcillo
-* 1 Trozo de tocino
-* 2 Trozos de morcilla
-* 2 Trozos de panceta salada
-* 1 Trozo de chorizo
-* 1 Punta de jamon pequeña
-* 1 Chorro de aceite
+* 2 Patatas
+* 2 Zanahorias
+* Unas pimientas en grano
+* Vino tinto
 * 1 Pizca de sal
-* 2 Patatas pequeñas
+
 
 Poner a remojo los garbanzos 8h (esta vez los tuve 6 por problemas de logistica)
 
