@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cerdgo guisado con patatas"
+title:  "Cerdo guisado con patatas"
 date:   2015-11-09 21:00:00
 categories: lenta receta
 ---
